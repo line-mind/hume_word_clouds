@@ -22,8 +22,8 @@ EPM:
 
 <table>
   <tr>
-  <td>![Image](images/hume1_original.jpg)</td>
-  <td>![Word Cloud](wordclouds/epm1.png)</td>
+  <td><img src='images/hume1_original.jpg' alt='hume1_origina.jpg'></td>
+  <td><img src='wordclouds/epm1.png' alt='epm1.png'></td>
   </tr>
 </table>
 
@@ -31,7 +31,7 @@ EHU:
 
 <table>
   <tr>
-  <td>![Image](images/hume2_original.jpg)</td>
-  <td>![Word Cloud](wordclouds/ehu2.png)</td>
+  <td><img src='images/hume2_original.jpg' alt='hume2_original.jpg')</td>
+  <td><img src='wordclouds/ehu2.png' alt='ehu2.png'></td>
   </tr>
 </table>
